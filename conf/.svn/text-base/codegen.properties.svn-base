@@ -1,0 +1,2 @@
+output.directory=/Users/aperez/home/codegen
+template.directory=com/mindplex/codegen/php/templates

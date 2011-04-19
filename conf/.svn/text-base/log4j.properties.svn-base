@@ -1,0 +1,7 @@
+log4j.rootLogger=ERROR, A1
+log4j.appender.A1=org.apache.log4j.ConsoleAppender
+log4j.appender.A1.layout=org.apache.log4j.PatternLayout
+log4j.appender.A1.layout.ConversionPattern=%d{yyyy MMM dd} %-5p [ %C{3} ] %m%n
+log4j.logger.enterprise.software=INFO
+log4j.logger.com.internetbrands=INFO
+log4j.logger.com.mindplex=INFO

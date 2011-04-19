@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/php
+END
+SQLTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mindplex/!svn/ver/947/trunk/src/java/Automation/src/com/mindplex/codegen/php/SQLTask.java
+END
+ControllerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mindplex/!svn/ver/946/trunk/src/java/Automation/src/com/mindplex/codegen/php/ControllerTask.java
+END
+ActiveRecordTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mindplex/!svn/ver/945/trunk/src/java/Automation/src/com/mindplex/codegen/php/ActiveRecordTask.java
+END

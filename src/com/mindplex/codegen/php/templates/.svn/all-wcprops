@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/php/templates
+END
+ActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/php/templates/ActiveRecord.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/php/templates/Controller.php
+END
+Entity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/php/templates/Entity.sql
+END

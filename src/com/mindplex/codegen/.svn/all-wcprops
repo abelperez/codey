@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen
+END
+SourceCodeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/SourceCodeContext.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/Model.java
+END
+SourceCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/SourceCodeGenerator.java
+END
+AbstractSourceCodeTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mindplex/!svn/ver/944/trunk/src/java/Automation/src/com/mindplex/codegen/AbstractSourceCodeTask.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/Attribute.java
+END
+StateMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/StateMemento.java
+END
+SourceCodeTaskFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/SourceCodeTaskFactory.java
+END
+RegularModelAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/RegularModelAttribute.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/Configuration.java
+END
+DataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/DataType.java
+END
+SourceCodeTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/SourceCodeTask.java
+END
+SourceCodeGeneratorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/SourceCodeGeneratorException.java
+END
+RegularSourceCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/RegularSourceCodeGenerator.java
+END
+ModelAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/ModelAttribute.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/Main.java
+END
+StateTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/StateTracker.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/internal
+END
+CodeGeneratorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/internal/CodeGeneratorException.java
+END
+VelocityCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/internal/VelocityCodeGenerator.java
+END
+CodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/internal/CodeGenerator.java
+END
+CodeGeneratorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mindplex/!svn/ver/941/trunk/src/java/Automation/src/com/mindplex/codegen/internal/CodeGeneratorFactory.java
+END
